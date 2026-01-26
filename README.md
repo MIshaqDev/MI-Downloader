@@ -1,4 +1,4 @@
-# 📥 MI Downloader - YouTube Video & Audio Downloader  
+ko# 📥 MI Downloader - YouTube Video & Audio Downloader  
   
 **MI Downloader** is a sleek and user-friendly application that lets you download YouTube videos and audio directly to your computer. Built with **Python**, **Streamlit**, and **yt-dlp**, it offers a modern interface, real-time download feedback, and customizable download options.  
   
@@ -26,7 +26,7 @@
   
 **1. Clone the Repository**
 
-git clone https://github.com/ishaq183/MI-Downloader.git  
+git clone https://github.com/mishaqdev/MI-Downloader.git  
 cd mi-downloader  
   
 **2. Install Required Packages**
@@ -65,8 +65,8 @@ Use responsibly.
   
 **Developer:** *Muhammad Ishaq*1  
 
-**📫 Email:** ishaqshamraiz33@gmail.com@gmail.com  
+**📫 Email:** muhammadishaq.dev@gmail.com 
 
-**🌐 LinkedIn:** https://linkedin.com/in/ishaq-shamraiz
+**🌐 LinkedIn:** https://linkedin.com/in/mishaqdev
 
-**💻 GitHub:** https://github.com/ishaqmuhammad 
+**💻 GitHub:** https://github.com/mishaqdev 
