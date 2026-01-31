@@ -26,19 +26,21 @@
   
 **1. Clone the Repository**
 
+```bash
 git clone https://github.com/mishaqdev/MI-Downloader.git  
 cd mi-downloader  
-  
+```
 **2. Install Required Packages**
   
 Use pip to install the necessary libraries:  
-  
+```bash
 pip install -r requirements.txt  
-  
+```
 **3. Run the Application**
-  
+
+```bash
 streamlit run app.py  
-  
+```
 The app will launch in your browser at http://localhost:8501/.  
   
   
@@ -63,7 +65,7 @@ Use responsibly.
   
 📧 Contact  
   
-**Developer:** *Muhammad Ishaq*1  
+**Developer:** *Muhammad Ishaq* 
 
 **📫 Email:** muhammadishaq.dev@gmail.com 
 
